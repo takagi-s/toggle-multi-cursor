@@ -1,5 +1,5 @@
 {
-  "name": "multi-cursor-emacs-extension",
+  "name": "toggle-multi-cursor",
   "main": "./lib/multi-cursor-emacs-extension",
   "version": "0.0.0",
   "description": "A short description of your package",
