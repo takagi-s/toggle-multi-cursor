@@ -1,0 +1,3 @@
+'atom-workspace atom-text-editor:not([mini])':
+  'shift-enter': 'editor:newline-below'
+  'ctrl-enter': 'multi-cursor-emacs-extension:toggle'
