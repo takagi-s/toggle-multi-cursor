@@ -1,12 +1,11 @@
 {
   "name": "toggle-multi-cursor",
-  "main": "./lib/multi-cursor-emacs-extension",
+  "main": "./lib/toggle-multi-cursor",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "multi-cursor-emacs-extension:toggle"
   },
   "repository": "https://github.com/atom/multi-cursor-emacs-extension",
   "license": "MIT",
