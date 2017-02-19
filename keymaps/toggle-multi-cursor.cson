@@ -1,3 +1,6 @@
 'atom-workspace atom-text-editor:not([mini])':
   'ctrl-enter': 'toggle-multi-cursor:toggle'
   'shift-enter': 'editor:newline-below'
+
+'atom-workspace atom-text-editor:not([mini]).toggle-multi-cursor-marked':
+  'ctrl-p':'multi-cursor:expandDown'
